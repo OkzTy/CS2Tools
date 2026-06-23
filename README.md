@@ -59,7 +59,7 @@
 ## ① AHK Bhop Scripts
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/75S9Ox400LY-kvjWGawu6WWqmvs4arOYzFQQslA341CVon3ZTc9-Xz0kHUcwAlWVQEs=w240-h480-rw" alt="AHK Logo" width="80" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/tjPOPhB-removebg-preview%20(1).png" alt="AHK Logo" width="50" />
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ However, Valve introduced **behavioral heuristics** in VAC Live that analyze jum
 ## ② XIM Matrix Anti-Recoil Config
 
 <p align="center">
-  <img src="https://www.stealth-gamer.com/media/catalog/product/cache/68fd165a3e8c92528dfdfb12ef97f622/x/i/xim-matrix-4.jpg" alt="XIM Matrix Showcase" width="70%" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/xim-matrix-4-removebg-preview.png" alt="XIM Matrix Showcase" width="40%" />
 </p>
 
 <p align="center">
@@ -189,7 +189,7 @@ A complete **DMA (Direct Memory Access)** cheat for CS2. It uses a **Raspberry P
 ## ④ DMA Gear
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsdf-removebg-preview.png" alt="DMA Hardware Setup" width="80%" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsdf-removebg-preview.png" alt="DMA Hardware Setup" width="40%" />
 </p>
 
 <p align="center">
@@ -233,7 +233,7 @@ DMA gear is built around one fundamental principle: **complete physical isolatio
 ## ⑤ Macku Configs
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qATJGT-ZJOXh8Mobh_qG8Newq8dCW8LOs55p6H2eMA&s=10" alt="Macku Logo" width="100" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/macku.png" alt="Macku Logo" width="50" />
   <br/>
   <img src="https://img.shields.io/badge/Macku-Aimbot_%26_Bhop_Hardware-7B1FA2?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1A1A1A" alt="Macku" />
   
