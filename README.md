@@ -95,7 +95,7 @@ However, Valve introduced **behavioral heuristics** in VAC Live that analyze jum
 ## ② XIM Matrix Anti-Recoil Config
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/xim-matrix-4-removebg-preview.png" alt="XIM Matrix Showcase" width="35%" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/xim-matrix-4-removebg-preview.png" alt="XIM Matrix Showcase" width="25%" />
 </p>
 
 <p align="center">
