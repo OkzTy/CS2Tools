@@ -138,8 +138,7 @@ The **XIM Matrix** is a **hardware peripheral** that applies anti-recoil directl
 ## ③ CS2 DMA Cheat
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Synced_Icon-removebg-preview.png" alt="Synced DMA Cheat Icon" width="120" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Sb5ed0c5220594faaaef6989f88daa5355.avif" alt="Fuser" width="120" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Synced_Icon-removebg-preview.png" alt="Synced DMA Cheat Icon" width="160" />
 </p>
 
 <p align="center">
@@ -185,7 +184,8 @@ A complete **DMA (Direct Memory Access)** cheat for CS2. It uses a **Raspberry P
 ## ④ DMA Gear
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsdf-removebg-preview.png" alt="DMA Hardware Setup" width="35%" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsdf-removebg-preview.png" alt="DMA Hardware Setup" width="35%" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Sb5ed0c5220594faaaef6989f88daa5355.avif" alt="Fuser" width="120" />
 </p>
 
 <p align="center">
@@ -229,7 +229,7 @@ DMA gear is built around one fundamental principle: **complete physical isolatio
 ## ⑤ Macku Configs
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/macku.png" alt="Macku Logo" width="100" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/macku.png" alt="Macku Logo" width="120" />
   <br/>
   <img src="https://img.shields.io/badge/Macku-Aimbot_%26_Bhop_Hardware-7B1FA2?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1A1A1A" alt="Macku" />
   
