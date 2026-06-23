@@ -54,7 +54,7 @@
 ## ① AHK Bhop Scripts
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/tjPOPhB-removebg-preview%20(1).png" alt="AHK Logo" width="50" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/tjPOPhB-removebg-preview%20(1).png" alt="AHK Logo" width="60" />
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ However, Valve introduced **behavioral heuristics** in VAC Live that analyze jum
 ## ② XIM Matrix Anti-Recoil Config
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/xim-matrix-4-removebg-preview.png" alt="XIM Matrix Showcase" width="40%" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/xim-matrix-4-removebg-preview.png" alt="XIM Matrix Showcase" width="35%" />
 </p>
 
 <p align="center">
@@ -138,7 +138,7 @@ The **XIM Matrix** is a **hardware peripheral** that applies anti-recoil directl
 ## ③ CS2 DMA Cheat
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Synced%20Icon.png" alt="Synced DMA Cheat Icon" width="120" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Synced_Icon-removebg-preview.png" alt="Synced DMA Cheat Icon" width="60" />
 </p>
 
 <p align="center">
@@ -184,7 +184,7 @@ A complete **DMA (Direct Memory Access)** cheat for CS2. It uses a **Raspberry P
 ## ④ DMA Gear
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsdf-removebg-preview.png" alt="DMA Hardware Setup" width="40%" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsdf-removebg-preview.png" alt="DMA Hardware Setup" width="35%" />
 </p>
 
 <p align="center">
@@ -228,7 +228,7 @@ DMA gear is built around one fundamental principle: **complete physical isolatio
 ## ⑤ Macku Configs
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/macku.png" alt="Macku Logo" width="50" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/macku.png" alt="Macku Logo" width="60" />
   <br/>
   <img src="https://img.shields.io/badge/Macku-Aimbot_%26_Bhop_Hardware-7B1FA2?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1A1A1A" alt="Macku" />
   
