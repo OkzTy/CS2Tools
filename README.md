@@ -138,7 +138,7 @@ The **XIM Matrix** is a **hardware peripheral** that applies anti-recoil directl
 ## ③ CS2 DMA Cheat
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Synced_Icon-removebg-preview.png" alt="Synced DMA Cheat Icon" width="250" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Synced_Icon-removebg-preview.png" alt="Synced DMA Cheat Icon" width="400" />
 </p>
 
 <p align="center">
@@ -184,8 +184,8 @@ A complete **DMA (Direct Memory Access)** cheat for CS2. It uses a **Raspberry P
 ## ④ DMA Gear
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsdf-removebg-preview.png" alt="DMA Hardware Setup" width="35%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/images__2_-removebg-preview.png" alt="Fuser" width="35%" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsdf-removebg-preview.png" alt="DMA Hardware Setup" width="25%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/images__2_-removebg-preview.png" alt="Fuser" width="25%" />
 </p>
 
 <p align="center">
