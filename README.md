@@ -1,6 +1,6 @@
 <!-- 🔥 CS2Tools Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/CS2Tools/main/assets/banner.png" alt="CS2Tools Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsqdsqd.png" alt="CS2Tools Banner" width="100%" />
 </p>
 
 <br/>
@@ -59,7 +59,7 @@
 ## ① AHK Bhop Scripts
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,powershell,vscode&theme=dark" height="45" alt="Environment" />
+  <img src="https://play-lh.googleusercontent.com/75S9Ox400LY-kvjWGawu6WWqmvs4arOYzFQQslA341CVon3ZTc9-Xz0kHUcwAlWVQEs=w240-h480-rw" alt="AHK Logo" width="80" />
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ However, Valve introduced **behavioral heuristics** in VAC Live that analyze jum
 ## ② XIM Matrix Anti-Recoil Config
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/45646273/507446769-784c6da1-cee8-48b8-a9fe-62a8c33dc350.png" alt="XIM Matrix Showcase" width="70%" />
+  <img src="https://www.stealth-gamer.com/media/catalog/product/cache/68fd165a3e8c92528dfdfb12ef97f622/x/i/xim-matrix-4.jpg" alt="XIM Matrix Showcase" width="70%" />
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@ The **XIM Matrix** is a **hardware peripheral** that applies anti-recoil directl
 ## ③ CS2 DMA Cheat
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/CS2Tools/main/assets/dma_cheat_preview.png" alt="DMA Cheat Preview" width="80%" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsdf-removebg-preview.png" alt="DMA Cheat Preview" width="80%" />
 </p>
 
 <p align="center">
@@ -171,14 +171,12 @@ A complete **DMA (Direct Memory Access)** cheat for CS2. It uses a **Raspberry P
 
 **DMA** is the holy grail of anti-detection cheating. The principle is radical: **the cheat does not run on the player's PC**. Here's why it's undetected:
 
-- ✅ **No execution on host PC** → Code runs on a secondary processor (RPi/Teensy) connected via PCIe
+- ✅ **No execution on host PC** → The cheat runs on the DMA board connected via PCIe, reading memory directly
 - ✅ **No memory modification** → CS2's memory is never modified, only read (Read-Only)
 - ✅ **No kernel driver** → No kernel module that could be caught by integrity checks
 - ✅ **No suspicious processes** → Nothing runs on the PC except the overlay (Fuser) which uses standard IPC techniques
 - ✅ **VAC is blind** → VAC scans the CS2 process and loaded modules — it cannot see what's happening on the PCIe bus
-- ✅ **Read-only access** → Even kernel-level anti-cheats (Faceit, ESEA) cannot detect simple memory reads via PCIe
 
-> 💡 The RPi firmware includes additional obfuscation techniques and encrypted communication between the RPi and the client PC.
 
 ---
 
@@ -191,7 +189,7 @@ A complete **DMA (Direct Memory Access)** cheat for CS2. It uses a **Raspberry P
 ## ④ DMA Gear
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/CS2Tools/main/assets/dma_hardware_setup.png" alt="DMA Hardware Setup" width="80%" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsdf-removebg-preview.png" alt="DMA Hardware Setup" width="80%" />
 </p>
 
 <p align="center">
@@ -235,6 +233,8 @@ DMA gear is built around one fundamental principle: **complete physical isolatio
 ## ⑤ Macku Configs
 
 <p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qATJGT-ZJOXh8Mobh_qG8Newq8dCW8LOs55p6H2eMA&s=10" alt="Macku Logo" width="100" />
+  <br/>
   <img src="https://img.shields.io/badge/Macku-Aimbot_%26_Bhop_Hardware-7B1FA2?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1A1A1A" alt="Macku" />
   
 </p>
