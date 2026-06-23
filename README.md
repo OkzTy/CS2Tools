@@ -30,6 +30,8 @@
 - ⚙️ **DMA Gear** — Captain DMA, Fuser, full hardware setup
 - 🕹️ **Macku Configs** — Hardware alternative to AHK (SOON)
 
+> 📦 **Want everything?** Just download the [latest release](https://github.com/OkzTy/CS2Tools/releases/latest) — all files included.
+
 > ⚠️ **Disclaimer:** This repo is for educational purposes only. Using these tools on official VAC-protected servers may result in a ban. You are solely responsible for your own usage.
 
 ---
