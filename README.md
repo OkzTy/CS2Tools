@@ -54,7 +54,7 @@
 ## ① AHK Bhop Scripts
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/tjPOPhB-removebg-preview%20(1).png" alt="AHK Logo" width="60" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/tjPOPhB-removebg-preview%20(1).png" alt="AHK Logo" width="100" />
 </p>
 
 <p align="center">
@@ -138,7 +138,8 @@ The **XIM Matrix** is a **hardware peripheral** that applies anti-recoil directl
 ## ③ CS2 DMA Cheat
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Synced_Icon-removebg-preview.png" alt="Synced DMA Cheat Icon" width="60" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Synced_Icon-removebg-preview.png" alt="Synced DMA Cheat Icon" width="120" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Sb5ed0c5220594faaaef6989f88daa5355.avif" alt="Fuser" width="120" />
 </p>
 
 <p align="center">
@@ -228,7 +229,7 @@ DMA gear is built around one fundamental principle: **complete physical isolatio
 ## ⑤ Macku Configs
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/macku.png" alt="Macku Logo" width="60" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/macku.png" alt="Macku Logo" width="100" />
   <br/>
   <img src="https://img.shields.io/badge/Macku-Aimbot_%26_Bhop_Hardware-7B1FA2?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1A1A1A" alt="Macku" />
   
