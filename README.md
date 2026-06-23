@@ -3,6 +3,10 @@
   <img src="https://raw.githubusercontent.com/OkzTy/CS2Tools/main/assets/banner.png" alt="CS2Tools Banner" width="100%" />
 </p>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:FF9100&height=120&section=header&text=CS2Tools&fontSize=30&fontColor=ffffff" width="100%" />
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FF1744&center=true&vCenter=true&width=500&lines=🎯+CS2+Ultimate+Toolkit;⚡+Bhop+%2B+Anti-Recoil+%2B+DMA;🛡️+Undetected+%26+Optimized;🔥+Made+by+OkzTy" alt="Typing SVG" />
 </div>
@@ -16,6 +20,8 @@
 ![status: active](https://img.shields.io/badge/status-active-00E676?style=for-the-badge&logo=steam&labelColor=1A1A1A)
 &nbsp;
 ![Game: CS2](https://img.shields.io/badge/Game-CS2-FF6F00?style=for-the-badge&logo=steam&labelColor=1A1A1A)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,100:FF9100&height=4&section=header&text=&fontSize=0" width="100%" />
 
