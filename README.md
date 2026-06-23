@@ -1,5 +1,11 @@
 <!-- 🔥 CS2Tools -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/SyncedCS2.png" alt="CS2Tools Banner" width="100%" />
+</p>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:FF9100&height=120&section=header&text=CS2Tools&fontSize=30&fontColor=ffffff" width="100%" />
 
 <div align="center">
