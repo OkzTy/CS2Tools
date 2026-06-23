@@ -143,7 +143,7 @@ The **XIM Matrix** is a **hardware peripheral** that applies anti-recoil directl
 ## ③ CS2 DMA Cheat
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsdf-removebg-preview.png" alt="DMA Cheat Preview" width="80%" />
+  <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/Synced%20Icon.png" alt="Synced DMA Cheat Icon" width="120" />
 </p>
 
 <p align="center">
