@@ -26,8 +26,8 @@
 - 🖱️ **AutoHotKey Scripts** — Bhop
 - 🎮 **XIM Matrix Configs** — Anti-Recoil
 - 🧠 **DMA Cheat** — Custom CS2 DMA
-- ⚙️ **DMA Gear** — Fuser, MDA, full hardware setup
-- 🕹️ **Macku Configs** — Hardware alternative to AHK
+- ⚙️ **DMA Gear** — Captain DMA, Fuser, full hardware setup
+- 🕹️ **Macku Configs** — Hardware alternative to AHK (SOON)
 
 > ⚠️ **Disclaimer:** This repo is for educational purposes only. Using these tools on official VAC-protected servers may result in a ban. You are solely responsible for your own usage.
 
@@ -205,13 +205,6 @@ All of my **DMA hardware equipment** for the CS2 setup. I use a combination of d
 > 🛒 **Fuser:** [Buy on Aliexpress](https://fr.aliexpress.com/item/1005008690006986.html)
 > 
 > 🔧 **Firmware note:** No special DMA firmware required. VAC is a very low-level anti-cheat. EAC and BE firmware exist but are completely unnecessary for CS2.
-
-```
-📁 Hardware/
- ├── schematics/    → Wiring diagrams
- ├── specs/        → Technical component specifications
- └── setup_guide.md → Full assembly guide
-```
 
 ### 🛡️ Why It's Undetected
 
